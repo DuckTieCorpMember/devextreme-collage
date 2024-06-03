@@ -30,6 +30,7 @@ import { DxDropDownButton } from 'devextreme-vue/drop-down-button';
 import { DxFileManager } from 'devextreme-vue/file-manager';
 import { DxFileUploader } from 'devextreme-vue/file-uploader';
 import { DxFilterBuilder } from 'devextreme-vue/filter-builder';
+import { DxSpeedDialAction } from "devextreme-vue/speed-dial-action"
 import { DxForm } from 'devextreme-vue/form';
 import { DxFunnel } from 'devextreme-vue/funnel';
 import { DxGallery } from 'devextreme-vue/gallery';

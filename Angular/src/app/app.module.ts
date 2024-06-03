@@ -28,6 +28,7 @@ import { DxFileManagerModule, DxFileManagerTypes } from 'devextreme-angular/ui/f
 import { DxFileUploaderModule, DxFileUploaderTypes } from 'devextreme-angular/ui/file-uploader';
 import { DxFilterBuilderModule, DxFilterBuilderTypes } from 'devextreme-angular/ui/filter-builder';
 import { DxFormModule, DxFormTypes } from 'devextreme-angular/ui/form';
+import { DxSpeedDialActionModule, DxSpeedDialActionTypes} from 'devextreme-angular/ui/speed-dial-action';
 import { DxFunnelModule, DxFunnelTypes } from 'devextreme-angular/ui/funnel';
 import { DxGalleryModule, DxGalleryTypes } from 'devextreme-angular/ui/gallery';
 import { DxGanttModule, DxGanttTypes } from 'devextreme-angular/ui/gantt';
@@ -113,6 +114,7 @@ import { AppComponent } from './app.component';
     DxFileUploaderModule, 
     DxFilterBuilderModule, 
     DxFormModule, 
+    DxSpeedDialActionModule,
     DxFunnelModule, 
     DxGalleryModule, 
     DxGanttModule, 
